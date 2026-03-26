@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -eu -o pipefail -E
+set -eu -o pipefail
 
 # # Updates the image version in the Docker Compose and Kubernetes deployments.
 #
